@@ -1,0 +1,13 @@
+.razmetka{
+    display: grid;
+    grid-template-columns:  repeat(4, 4fr) ;
+
+  }
+
+.bttn{
+    width: 20px;
+}
+
+button{
+    width: 20px;
+}
